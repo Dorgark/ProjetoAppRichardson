@@ -5,3 +5,8 @@ class Program
         
     }
 }
+
+void Menu()
+{
+    
+}
