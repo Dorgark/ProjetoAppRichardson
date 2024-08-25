@@ -1,0 +1,14 @@
+class BancoDeDados
+{
+    private List<Usuario> usuarios = new List<Usuario>():
+
+    public void List<Usuario> GetUsuarios()
+    {
+        return this.usuarios;
+        Console.WriteLine(usuarios);
+    }
+    private void AdicionarUsuario()
+    {
+        
+    }
+}
