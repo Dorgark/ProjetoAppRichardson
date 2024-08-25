@@ -13,12 +13,13 @@ class Usuario
         this.id = id;
     }
 
-    public void CriarPerfil()
+    public static void CriarPerfil(BancoDeDados banco)
     {
         Console.Clear();
         Console.WriteLine("Digite seu nome de perfil");
         nome = Console.ReadLine();
         Console.WriteLine("Digite sua senha");
         senha = Console.ReadLine();
+        BancoDeDados
     }
 }

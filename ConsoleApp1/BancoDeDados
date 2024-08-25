@@ -1,14 +1,16 @@
-class BancoDeDados
+public class BancoDeDados
 {
-    private List<Usuario> usuarios = new List<Usuario>():
+    public List<Usuario> usuarios = new List<Usuario>():
 
     public void List<Usuario> GetUsuarios()
     {
         return this.usuarios;
-        Console.WriteLine(usuarios);
     }
-    private void AdicionarUsuario()
+    private void AdicionarUsuarioBanco(Usuario[] usuario)
     {
-        
+        foreach (Usuario user in usuario)
+        {
+            this.usuarios.Add(user);
+        }
     }
 }

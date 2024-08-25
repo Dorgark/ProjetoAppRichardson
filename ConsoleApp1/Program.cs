@@ -1,4 +1,5 @@
-﻿
+﻿BancoDeDados banco = new BancoDeDados();
+
 Console.WriteLine("Seja bem vindo ao CATMANIA");
 Console.WriteLine("O que você deseja fazer ?");
 Console.WriteLine("1 - Criar seu Perfil");
@@ -13,7 +14,7 @@ opcao = int.Parse(Console.ReadLine());
 switch(opcao)
     {
         case 1:
-            DevConsole
+            Usuario.CriarPerfil();
         break;
 
     }

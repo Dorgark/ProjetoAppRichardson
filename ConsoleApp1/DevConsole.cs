@@ -1,5 +1,6 @@
 public class DevConsole
 {
+    BancoDeDados banco = new BancoDeDados();
     public void AccessDev()
     {
         ConsoleKeyInfo opcao = new ConsoleKeyInfo();
@@ -14,7 +15,7 @@ public class DevConsole
         switch(opcao.Key)
         {
             case ConsoleKey.D1:
-                BancoDeDados.GetUsuarios();
+                Console.WriteLine
             break;
         }
     }
