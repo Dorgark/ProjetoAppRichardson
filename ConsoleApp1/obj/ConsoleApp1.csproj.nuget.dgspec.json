@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\caiqu\\OneDrive\\Documentos\\PROJETOS PROG\\C# Testes\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\caiqu\\OneDrive\\Documentos\\GitHub\\ProjetoAppRichardson\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\caiqu\\OneDrive\\Documentos\\PROJETOS PROG\\C# Testes\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\caiqu\\OneDrive\\Documentos\\GitHub\\ProjetoAppRichardson\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\caiqu\\OneDrive\\Documentos\\PROJETOS PROG\\C# Testes\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\caiqu\\OneDrive\\Documentos\\GitHub\\ProjetoAppRichardson\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "c:\\Users\\caiqu\\OneDrive\\Documentos\\PROJETOS PROG\\C# Testes\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\caiqu\\OneDrive\\Documentos\\GitHub\\ProjetoAppRichardson\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\caiqu\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\caiqu\\OneDrive\\Documentos\\PROJETOS PROG\\C# Testes\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\caiqu\\OneDrive\\Documentos\\GitHub\\ProjetoAppRichardson\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caiqu\\AppData\\Roaming\\NuGet\\NuGet.Config"
