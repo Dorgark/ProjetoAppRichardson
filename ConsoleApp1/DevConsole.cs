@@ -1,21 +1,25 @@
+using System.Runtime.CompilerServices;
+
 public class DevConsole
 {
     BancoDeDados banco = new BancoDeDados();
     public void AccessDev()
     {
-        ConsoleKeyInfo opcao = new ConsoleKeyInfo();
         
-        Console.Clear();
+        
+        //Console.Clear();
         Console.WriteLine("Bem vindo Admim, o que desejas fazer ?");
         Console.WriteLine("1 - Acessar lista do banco de dados");
 
         
-        opcao = Console.ReadKey();
+        int opcao;
+        
+        opcao = int.Parse(Console.ReadLine());
 
-        switch(opcao.Key)
+        switch(opcao)
         {
-            case ConsoleKey.D1:
-                Console.WriteLine
+            case 1:
+                banco.GetUsuarios();
             break;
         }
     }
