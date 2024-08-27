@@ -35,3 +35,10 @@ c:\Users\Home\Documents\GitHub\ProjetoAppRichardson\ConsoleApp1\obj\Debug\net8.0
 c:\Users\Home\Documents\GitHub\ProjetoAppRichardson\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
 c:\Users\Home\Documents\GitHub\ProjetoAppRichardson\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
 c:\Users\Home\Documents\GitHub\ProjetoAppRichardson\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+c:\Users\Home\Documents\GitHub\ProjetoAppRichardson\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+c:\Users\Home\Documents\GitHub\ProjetoAppRichardson\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+c:\Users\Home\Documents\GitHub\ProjetoAppRichardson\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+c:\Users\Home\Documents\GitHub\ProjetoAppRichardson\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+c:\Users\Home\Documents\GitHub\ProjetoAppRichardson\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+c:\Users\Home\Documents\GitHub\ProjetoAppRichardson\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+c:\Users\Home\Documents\GitHub\ProjetoAppRichardson\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

@@ -1,6 +1,3 @@
-using System.Diagnostics.Contracts;
-using System.Net.Mail;
-
 public class Usuario
 {
     public string nome;
@@ -18,7 +15,7 @@ public class Usuario
 
     public void CriarPerfil(BancoDeDados banco)
     {
-        //Console.Clear();
+        Console.Clear();
         Console.WriteLine("Digite seu nome de perfil");
         string nome = Console.ReadLine();
         Console.WriteLine("Digite sua senha");
