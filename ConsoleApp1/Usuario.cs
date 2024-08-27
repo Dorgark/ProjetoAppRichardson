@@ -20,9 +20,9 @@ public class Usuario
     {
         //Console.Clear();
         Console.WriteLine("Digite seu nome de perfil");
-        nome = Console.ReadLine();
+        string nome = Console.ReadLine();
         Console.WriteLine("Digite sua senha");
-        senha = Console.ReadLine();
+        string senha = Console.ReadLine();
         banco.AdicionarUsuarioBanco(new Usuario[] {new Usuario(nome, senha)});
     }
 }

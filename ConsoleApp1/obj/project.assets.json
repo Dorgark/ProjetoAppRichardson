@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\caiqu\\.nuget\\packages\\": {}
+    "C:\\Users\\Home\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\caiqu\\OneDrive\\Documentos\\GitHub\\ProjetoAppRichardson\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Home\\Documents\\GitHub\\ProjetoAppRichardson\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\caiqu\\OneDrive\\Documentos\\GitHub\\ProjetoAppRichardson\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\caiqu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\caiqu\\OneDrive\\Documentos\\GitHub\\ProjetoAppRichardson\\ConsoleApp1\\obj\\",
+      "projectPath": "C:\\Users\\Home\\Documents\\GitHub\\ProjetoAppRichardson\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Home\\Documents\\GitHub\\ProjetoAppRichardson\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\caiqu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

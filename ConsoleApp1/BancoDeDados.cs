@@ -11,8 +11,6 @@ public class BancoDeDados
         foreach (Usuario user in usuario)
         {
             this.usuarios.Add(user);
-            Console.WriteLine("");
-            Console.WriteLine("Press ESC to leave");
         }
     }
 }
