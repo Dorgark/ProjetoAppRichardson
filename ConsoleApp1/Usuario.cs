@@ -13,7 +13,7 @@ public class Usuario
         
     }
 
-    public void CriarPerfil(BancoDeDados banco)
+    public static void CriarPerfil(BancoDeDados banco)
     {
         Console.Clear();
         Console.WriteLine("Digite seu nome de perfil");

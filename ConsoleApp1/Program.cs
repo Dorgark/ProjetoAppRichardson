@@ -8,6 +8,7 @@
 
         banco.AdicionarUsuarioBanco(new Usuario[] { usuario1});
 
+        Console.Clear();
         Console.WriteLine("Seja bem vindo ao CATMANIA");
         Console.WriteLine("O que você deseja fazer ?");
         Console.WriteLine("1 - Criar seu Perfil");
@@ -17,12 +18,11 @@
 
         ConsoleKeyInfo opcao = new ConsoleKeyInfo();
 
-        Usuario usuario = null;
         opcao = Console.ReadKey();
         switch(opcao.Key)
         {
             case ConsoleKey.D1:
-                usuario.CriarPerfil(banco);
+                Usuario.CriarPerfil(banco);
             break;
 
             case ConsoleKey.D2:
@@ -42,7 +42,6 @@
                 Console.WriteLine("Caso 3");
             break;
         }
-        break;
     }
 }
 
