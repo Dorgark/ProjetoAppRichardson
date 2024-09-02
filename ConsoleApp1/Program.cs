@@ -33,7 +33,8 @@
                 switch(opcao.Key)
                 {
                     case ConsoleKey.D1:
-                        banco.GetUsuarios();
+                        Console.Clear();
+                        Console.WriteLine(banco.GetUsuarios());
                     break;
                 }
             break;

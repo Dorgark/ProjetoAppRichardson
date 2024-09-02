@@ -1,10 +1,12 @@
+using System.Reflection.Metadata.Ecma335;
+
 public class BancoDeDados
 {
     public List<Usuario> usuarios = new List<Usuario>();
 
     public List<Usuario> GetUsuarios()
     {
-        return this.usuarios;
+        string ListaDeUsuarios = return this.usuarios;
     }
     public void AdicionarUsuarioBanco(Usuario[] usuario)
     {
