@@ -8,6 +8,12 @@ public class BancoDeDados
     {
         string ListaDeUsuarios = return this.usuarios;
     }
+
+    void AdicionarCarrosAleatorios ()
+    {
+        
+
+    }
     public void AdicionarUsuarioBanco(Usuario[] usuario)
     {
         foreach (Usuario user in usuario)
